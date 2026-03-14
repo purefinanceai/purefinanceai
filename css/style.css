@@ -828,7 +828,7 @@ ul { list-style: none; }
   .disclaimer { text-align: center; }
 }
 
-/* =================== MAILERLITE OVERRIDE =================== */
+/* ======================== MAILERLITE OVERRIDE ======================== */
 .ml-embedded .ml-form-embedWrapper {
   background: transparent !important;
   border: none !important;
